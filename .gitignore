@@ -1,0 +1,24 @@
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+Virtual environments
+
+venv/
+env/
+macOS and Linux
+
+.DS_Store
+VSCode and PyCharm
+
+.vscode/
+.idea/
+Generated bills
+
+bill_*.txt
